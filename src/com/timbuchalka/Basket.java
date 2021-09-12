@@ -14,6 +14,7 @@ import java.util.TreeMap;
  * Contact author at:  http://timbuchalka.com
  * 
  */
+// commentaire added by cherif
 public class Basket {
     private final String name;
     private final Map<StockItem, Integer> list;
