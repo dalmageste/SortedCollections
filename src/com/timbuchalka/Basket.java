@@ -68,4 +68,6 @@ public class Basket {
         }
         return s + "Total cost " + totalCost;
     }
+    
+    // Cherif added a second message
 }
